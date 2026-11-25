@@ -17,24 +17,24 @@
 
 <!-- RAVEN_BUTTONS -->
 <p align="center">
-  <a href="https://github.com/zededa/raven-releases/releases/download/v0.1.1/Raven-0.1.1-mac-arm64.dmg"><img alt="Download for macOS" src="https://img.shields.io/badge/Download_for-macOS-1C2422?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a href="https://github.com/zededa/raven-releases/releases/download/v0.1.1/Raven-x64.appinstaller"><img alt="Download for Windows" src="https://img.shields.io/badge/Download_for-Windows-0B7168?style=for-the-badge&logo=windows11&logoColor=white"></a>
-  <a href="https://github.com/zededa/raven-releases/releases/download/v0.1.1/Raven-0.1.1-linux-x86_64.AppImage"><img alt="Download for Linux" src="https://img.shields.io/badge/Download_for-Linux-1C2422?style=for-the-badge&logo=linux&logoColor=white"></a>
+  <a href="https://github.com/zededa/raven-releases/releases/download/v0.1.2/Raven-0.1.2-mac-arm64.dmg"><img alt="Download for macOS" src="https://img.shields.io/badge/Download_for-macOS-1C2422?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/zededa/raven-releases/releases/download/v0.1.2/Raven-x64.appinstaller"><img alt="Download for Windows" src="https://img.shields.io/badge/Download_for-Windows-0B7168?style=for-the-badge&logo=windows11&logoColor=white"></a>
+  <a href="https://github.com/zededa/raven-releases/releases/download/v0.1.2/Raven-0.1.2-linux-x86_64.AppImage"><img alt="Download for Linux" src="https://img.shields.io/badge/Download_for-Linux-1C2422?style=for-the-badge&logo=linux&logoColor=white"></a>
 </p>
 <!-- /RAVEN_BUTTONS -->
 
 This repository holds Raven's releases. It contains no source code.
 
 <!-- RAVEN_DOWNLOADS -->
-## Download Raven 0.1.1
+## Download Raven 0.1.2
 
 | System | Processor | Download |
 |---|---|---|
-| macOS 13 or later | Apple Silicon | [Raven-0.1.1.dmg](https://github.com/zededa/raven-releases/releases/download/v0.1.1/Raven-0.1.1-mac-arm64.dmg) |
-| Windows 11 | x64 (Intel, AMD) | [Install](https://github.com/zededa/raven-releases/releases/download/v0.1.1/Raven-x64.appinstaller) · [MSIX package](https://github.com/zededa/raven-releases/releases/download/v0.1.1/Raven-0.1.1-win-x64.msix) |
-| Windows 11 | ARM64 | [Install](https://github.com/zededa/raven-releases/releases/download/v0.1.1/Raven-arm64.appinstaller) · [MSIX package](https://github.com/zededa/raven-releases/releases/download/v0.1.1/Raven-0.1.1-win-arm64.msix) |
-| Linux | x64 | [AppImage](https://github.com/zededa/raven-releases/releases/download/v0.1.1/Raven-0.1.1-linux-x86_64.AppImage) |
-| Linux | ARM64 | [AppImage](https://github.com/zededa/raven-releases/releases/download/v0.1.1/Raven-0.1.1-linux-arm64.AppImage) |
+| macOS 13 or later | Apple Silicon | [Raven-0.1.2.dmg](https://github.com/zededa/raven-releases/releases/download/v0.1.2/Raven-0.1.2-mac-arm64.dmg) |
+| Windows 11 | x64 (Intel, AMD) | [Install](https://github.com/zededa/raven-releases/releases/download/v0.1.2/Raven-x64.appinstaller) · [MSIX package](https://github.com/zededa/raven-releases/releases/download/v0.1.2/Raven-0.1.2-win-x64.msix) |
+| Windows 11 | ARM64 | [Install](https://github.com/zededa/raven-releases/releases/download/v0.1.2/Raven-arm64.appinstaller) · [MSIX package](https://github.com/zededa/raven-releases/releases/download/v0.1.2/Raven-0.1.2-win-arm64.msix) |
+| Linux | x64 | [AppImage](https://github.com/zededa/raven-releases/releases/download/v0.1.2/Raven-0.1.2-linux-x86_64.AppImage) |
+| Linux | ARM64 | [AppImage](https://github.com/zededa/raven-releases/releases/download/v0.1.2/Raven-0.1.2-linux-arm64.AppImage) |
 
 Older versions and the release notes are on the [releases page](https://github.com/zededa/raven-releases/releases).
 <!-- /RAVEN_DOWNLOADS -->
